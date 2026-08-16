@@ -12,7 +12,8 @@ function App() {
       >
         Click me
       </Button>
-      <p>Some new feature</p>
+      <p>Some new feature!</p>
+       <p>Again some new feature!</p>
     </>
   );
 }
